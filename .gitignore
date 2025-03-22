@@ -1,2 +1,5 @@
 .venv/
 spark-sql
+orders_large.csv
+orders_csv_9/
+orders_csv_12/
