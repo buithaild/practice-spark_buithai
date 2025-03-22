@@ -1,0 +1,101 @@
+product_id,product_category_id,product_name,product_price,quantity
+1,6,Convertible Roadster,132.00,35
+2,6,SUV Luxury,98.00,27
+3,8,Vintage Classic,157.00,2
+4,8,Tuning Kit,43.00,19
+5,10,Classic Muscle Car,55.00,25
+6,5,Sports Coupe,138.00,28
+7,3,Car Audio System,142.00,28
+8,2,Cargo Van,14.00,21
+9,5,Luxury Limousine,43.00,30
+10,2,Off-road Jeep,14.00,49
+11,1,Economy Sedan,165.00,50
+12,2,Compact Crossover,55.00,43
+13,7,Autonomous Car,89.00,23
+14,6,Hybrid Hatchback,109.00,7
+15,3,Racing Kart,155.00,47
+16,5,Racing Kart,11.00,28
+17,9,Supercar V12,185.00,2
+18,7,Car Audio System,41.00,32
+19,9,Cargo Van,130.00,41
+20,10,Autonomous Car,150.00,40
+21,10,Supercar V12,197.00,10
+22,5,Classic Muscle Car,147.00,9
+23,8,Performance Motorcycle,66.00,49
+24,5,Tuning Kit,190.00,43
+25,6,Electric Sedan,67.00,49
+26,9,Off-road Jeep,178.00,33
+27,3,Off-road Jeep,147.00,36
+28,8,Vintage Classic,189.00,1
+29,7,Vintage Classic,57.00,29
+30,3,Sports Coupe,149.00,10
+31,5,Electric Sedan,44.00,14
+32,10,Performance Motorcycle,200.00,9
+33,3,Sports Coupe,64.00,19
+34,6,Supercar V12,146.00,41
+35,2,Supercar V12,50.00,26
+36,10,Racing Kart,55.00,37
+37,4,Economy Sedan,51.00,10
+38,6,Off-road Jeep,154.00,40
+39,1,SUV Luxury,199.00,22
+40,4,Sports Coupe,145.00,17
+41,2,Performance Motorcycle,93.00,1
+42,5,Diesel Pickup,56.00,7
+43,1,Cargo Van,71.00,17
+44,6,Hybrid Hatchback,127.00,28
+45,8,Sports Coupe,19.00,13
+46,8,Tuning Kit,92.00,50
+47,7,Car Audio System,181.00,36
+48,2,Sports Coupe,25.00,4
+49,6,Compact Crossover,52.00,15
+50,5,Autonomous Car,51.00,48
+51,9,Hybrid Hatchback,105.00,26
+52,1,Convertible Roadster,89.00,2
+53,1,Autonomous Car,157.00,39
+54,2,Sports Coupe,117.00,38
+55,10,SUV Luxury,155.00,49
+56,9,Tuning Kit,106.00,48
+57,3,Performance Motorcycle,108.00,36
+58,4,Racing Kart,99.00,39
+59,1,Vintage Classic,150.00,26
+60,3,Diesel Pickup,195.00,22
+61,7,Supercar V12,106.00,2
+62,2,Off-road Jeep,192.00,15
+63,10,Hybrid Hatchback,78.00,12
+64,1,Car Audio System,167.00,17
+65,10,Cargo Van,108.00,21
+66,4,Off-road Jeep,80.00,14
+67,2,Economy Sedan,200.00,10
+68,8,Economy Sedan,63.00,27
+69,1,Racing Kart,24.00,46
+70,4,Diesel Pickup,46.00,45
+71,1,Family Minivan,13.00,38
+72,9,Convertible Roadster,40.00,22
+73,4,SUV Luxury,108.00,50
+74,3,Car Audio System,166.00,45
+75,8,Convertible Roadster,90.00,27
+76,9,Performance Motorcycle,120.00,23
+77,5,Vintage Classic,146.00,44
+78,4,Vintage Classic,30.00,34
+79,8,Hybrid Hatchback,152.00,12
+80,9,Tuning Kit,185.00,37
+81,9,Autonomous Car,121.00,48
+82,7,Economy Sedan,92.00,43
+83,2,Autonomous Car,50.00,41
+84,6,Electric Sedan,55.00,20
+85,10,Classic Muscle Car,102.00,5
+86,3,Car Audio System,83.00,13
+87,10,Autonomous Car,141.00,10
+88,7,Compact Crossover,162.00,46
+89,4,Tuning Kit,173.00,2
+90,1,Tuning Kit,149.00,9
+91,10,Compact Crossover,156.00,5
+92,9,Car Audio System,187.00,29
+93,1,Luxury Limousine,176.00,22
+94,5,Luxury Limousine,59.00,50
+95,6,Economy Sedan,52.00,9
+96,5,Convertible Roadster,82.00,17
+97,1,Classic Muscle Car,117.00,19
+98,5,Performance Motorcycle,66.00,8
+99,5,Luxury Limousine,150.00,9
+100,6,Diesel Pickup,67.00,11
