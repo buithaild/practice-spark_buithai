@@ -3,3 +3,5 @@ spark-sql
 orders_large.csv
 orders_csv_9/
 orders_csv_12/
+write-data-in-spark/demo1
+write-data-in-spark/demo2
