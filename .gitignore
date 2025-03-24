@@ -5,3 +5,8 @@ orders_csv_9/
 orders_csv_12/
 write-data-in-spark/demo1
 write-data-in-spark/demo2
+
+write-data-pyspark/demo1
+write-data-pyspark/demo2
+
+write-data-pyspark-2/cust_partition
